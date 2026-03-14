@@ -1,0 +1,11 @@
+ {
+       "description": "imd - Your Digital Life Hub",
+       "repo": "https://github.com/DHEERAJ1312/imd",
+       "owner": {
+         "username": "DHEERAJ1312",
+         "email": "dheerajkumar150898@gmail.com"
+       },
+       "record": {
+         "CNAME": "dheeraj-portfolio-6bms.onrender.com"
+       }
+     }
